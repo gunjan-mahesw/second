@@ -1,0 +1,41 @@
+[33mcommit 08d7e5cdaee7ab608d25b15b99f1308b5272dedd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: b70848a d72747d
+Author: gunjan-mahesw <gunjanmaheswari002@gmail.com>
+Date:   Fri Dec 6 11:14:04 2024 +0530
+
+    Merge pull request #2 from gunjan-mahesw/team2
+    
+    new file index.html is added
+
+[33mcommit b70848a923483e092bc3a83d48a2a70060afd516[m
+Merge: 2ac6296 c30e61a
+Author: gunjan-mahesw <gunjanmaheswari002@gmail.com>
+Date:   Fri Dec 6 11:08:52 2024 +0530
+
+    Merge pull request #1 from gunjan-mahesw/team1
+    
+    Team1
+
+[33mcommit d72747d6c3410ee209364b7afe9160f3f94a7b83[m[33m ([m[1;31morigin/team2[m[33m, [m[1;32mteam2[m[33m)[m
+Author: gunjan-mahesw <gunjanmaheswari002@gmail.com>
+Date:   Fri Dec 6 11:01:29 2024 +0530
+
+    new file index.html is added
+
+[33mcommit c30e61a50c6675b4bd6cc2e392c590f4b48d5e3f[m[33m ([m[1;31morigin/team1[m[33m, [m[1;32mteam1[m[33m)[m
+Author: gunjan-mahesw <gunjanmaheswari002@gmail.com>
+Date:   Fri Dec 6 10:53:38 2024 +0530
+
+    new branch
+
+[33mcommit d01a25e9edcf7c9eb9fffab321f11234e0a98cc4[m
+Author: gunjan-mahesw <gunjanmaheswari002@gmail.com>
+Date:   Fri Dec 6 10:45:19 2024 +0530
+
+    main change
+
+[33mcommit 2ac629636f914b93e5e6e1d783038b253eceb944[m
+Author: gunjan-mahesw <gunjanmaheswari002@gmail.com>
+Date:   Fri Dec 6 09:51:49 2024 +0530
+
+    line1
